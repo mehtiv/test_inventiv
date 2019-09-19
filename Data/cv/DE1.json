@@ -1,0 +1,10 @@
+{
+	"title": "Data Engineer",
+	"experience": [{
+			"title": "Data Engineer",
+			"duration": 19,
+			"description": "The Big Data Engineer programme is a technical journey where I acquire through deep learning methodologies, knowledge and hands-on skills that will allow me to be productive within the business environment.  Courses and Accreditation  - Professional skills - Web applications and coding - GIT, GITHUB and Agile - Introduction to data analytics - Data modelling principles - SQL and T-SQL - Python and data munging techniques - NoSQL using MongoDB and Neo4j - Cloudera Hadoop Ecosystem including Sqoop, Pig & Flume - Apache Spark - Python  Accreditation - Cloudera CCA Developer - CISI IOC (Investment & Securities) "
+		}
+	],
+	"skills": ["Github", "MongoDB", "Docker", "maven", "Big Data Analytics", "SQL", "Spark"]
+}

@@ -1,0 +1,23 @@
+{
+	"title": "Front End Web Developer",
+	"experience": [{
+			"title": "junior Front End Developer",
+			"duration": 7,
+			"description": "Junior Front End Developer role within the Digital Team, working in an Agile environment. Managing the website is at the core of our day-to-day activity. As a junior developer I use my knowledge to translate designs into code, by focusing on SEO standards, accessibility needs and cross-browser compatibility challenges. Using Umbraco as a CMS within the ASP.Net MVC environment, I usually write code in HTML5, SASS and Jquery/Javascript to meet the design Team and the stakeholders needs."
+		}, {
+			"title": "intern Front End Developer",
+			"duration": 3,
+			"description": "Front-end development and SEO internship using HTML5, CSS3, Javascript and jQuery. Mainly I have worked on the Company main website improving the development code and the design, designed and created the Careers and Competitions pages and working on the Homepage, introducing an Instagram feed slider among others (through Magento and Wordpress). I have also written the Company Ebay homepage following the main website design as well as few other projects. Besides my frontend tasks, I have also learned some SEO techniques to boost the website visibility and improve search engines ranking"
+		}
+	],
+	"skills": ["HTML5",
+		"JavaScript",
+		"Bootstrap",
+		"MySQL",
+		"Microsoft Office",
+		"Microsoft Excel",
+		"Magento",
+		"SASS",
+		"Cascading Style Sheets (CSS)"
+	]
+}

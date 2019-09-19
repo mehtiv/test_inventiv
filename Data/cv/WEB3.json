@@ -1,0 +1,31 @@
+{
+	"title": "Full-stack Web Developer ",
+	"experience": [{
+			"title": "Full stack web developer",
+			"duration": 18,
+			"description": "Self-employed, regularly taking jobs in web development for individuals or professionals. I learned to work with many different web technologies to satisfy my clients, by building strong and modern solutions. Those experiences have made me more and more familiar with full-stack web development and project management. Showcase website, Dynamic website, E-commerce, WordPress, Newsletters, Softwares, and others.  Technologies, CMS, frameworks and methodologies mainly used: ❯ PHP, Node.js, Express, Drupal 7 & 8, WordPress, PrestaShop ❯ MySQL, MongoDB, Elasticsearch, Memecached, Web services, 3rd-party APIs, CRM integration ❯ Html, Css, Sass, Js, AngularJS, Responsive design, Bootstrap ❯ Agile SCRUM, Git, Jenkins, Gulp, Drush, Composer, NPM Browser"
+		}, {
+			"title": "Technical web developer",
+			"duration": 4,
+			"description": "❯ Conception and realisation of complex web applications ❯ PHP, Drupal 7 & 8, MySQL, Apache Solr, Memecached, Web services, 3rd-party APIs, CRM integration ❯ Html, Css, Sass, Js, AngularJS, Responsive design ❯ Agile SCRUM, Waterfall, GDS, Git, Jenkins, Drush, Composer, Gulp ❯ Client facing ❯ Analysis of the projects needs ❯ Estimates of the development charge ❯ Specifications writing  Reading Room is a digital agency based in London, specialized in the realisation of web services for major international clients. It is now part of the IDOX Group.  I worked on the realisation of web applications and services for major brands and institutions such as UK Government (UK Export Finance, MHRA), Ministry of Defence, Visit England, Škoda, Royal Marsden NHS, Newham Council, National Gallery of Ireland, Future London, Norfolk Constabulary, and others."
+		}
+	],
+	"skills": ["AngularJS",
+		"Node.js",
+		"CSS",
+		"MySQL",
+		"MongoDB",
+		"PostgreSQL",
+		"WordPress",
+		"Bootstrap", "Git",
+		"Subversion",
+		"Java",
+		"C",
+		"Android",
+		"Windows",
+		"Linux",
+		"Microsoft Office",
+		"Microsoft Excel",
+		"Cascading Style Sheets (CSS)",
+		"Drupal"]
+}

@@ -1,0 +1,27 @@
+{
+	"title": "ERP Consultant, Business Analyst, Project Manager, Data Analyst",
+	"experience": [{
+			"title": "ERP Application and Technical Consultant",
+			"duration": 25,
+			"description": "Working on projects of delivering and implementing ERP solutions for international manufacturing companies. Main activity is to develop projects to integrate the various functions and departments in a manufacturing facility to have control on the entire organization. That includes providing technical feasibility of future business process after analyzing current state, business requirements and constraints. Identifying the business needs and performed fit gap analysis. Suggesting project processes for improved timely and quality delivery of project. Responsible for optimizing the system for easy use, training employees in its functions and drive User acceptance tests."
+		}, {
+			"title": "Business Solutions Consultant",
+			"duration": 14,
+			"description": "I’m responsible for bringing business and technology together under a unified structure. Also in charge of exciting transformational programs and projects that involve controlling a multi-disciplinary teams from various fields. Working as Admin and Specialist of ERP Infor XA. After less than one year I proved myself and CEO trusted me and gave opportunity to implement ERP solution from R7.8 to R9. A project where I organized, planned and performed project on very high level. During the project I took care of most of tasks, tested all its features and modules which helped me to understand the ERP solution at global, I also educated/trained over 100 people for new system, wrote instructions, guidelines and documentation to help them adapt and as well to new potential ERP users. With it I became XA Consultant for all Business Processes inside of company. I’m working as well as System Admin (IBM iSeries 5/7+, AS/400), working with queries, DB and creating programs for our ERP. I performed migration of ERP and all its applications from AS/400 iSeries 5 to Power720 with Mirroring technology (PowerHA). I was associate in several projects for Finance, MRP, Sales and Technical dept. which helped me to gain knowledge from real life practices and able to use it as ERP specialist. I’m also named as Project Manager for web-based application running on Domino and workflow platform and operate as its admin. I take charge of most reporting, with my understanding of business processes and strong analytical skills I created series of programs to automate complex reports through Excel / SQL / VBA using external data like DB2 for various depts, their employees and CEO members so they are able to get quickly live reports and needed information. Their satisfaction to my programs, trainings and support is one of the biggest successes of mine. I’ve been working with business partners and consultants from Europe and USA with huge experience and knowledge and I deserved their utmost respect."
+		}
+	],
+	"skills": ["System Administration",
+		"Project Management",
+		"IT Management",
+		"ERP",
+		"Software Project Management",
+		"Scrum",
+		"Project Planning",
+		"Product Management",
+		"Data Analysis",
+		"Data Migration",
+		"Data Warehousing",
+		"IT Strategy",
+		"IT Service Management",
+		"Information Technology"]
+}

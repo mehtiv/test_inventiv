@@ -1,0 +1,29 @@
+{
+	"title": "Full Stack Web Developer",
+	"experience": [{
+			"title": "Web Developer",
+			"duration": 3,
+			"description": "- Creation of a cloud platform to manage e-commerce resources. - Creating an innovative user experience.  Technology: PHP5, Zend Framework2, Amazon S3&EC2, Doctrine, Knockout.js, CSS3, HTML5, Bootstrap. "
+		}
+	],
+	"skills": ["Node.js",
+		"PHP",
+		"Python",
+		"Linux",
+		"Angular.js",
+		"HTML 5",
+		"C++",
+		"MySQL",
+		"Git",
+		"Java",
+		"jQuery",
+		"Django",
+		"SASS",
+		"Perl",
+		"Core Java",
+		"SQL",
+		"XML",
+		"Cascading Style Sheets (CSS)",
+		"AngularJS",
+		"HTML5"]
+}

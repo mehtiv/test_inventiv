@@ -1,0 +1,33 @@
+{
+	"title": "senior Data Scientist",
+	"experience": [{
+			"title": "senior Data Scientist",
+			"duration": 14,
+			"description": "Supervised learning, optimisation, pandas, scikit-learn, pyspark, hive, jupyter"
+		}, {
+			"title": "senior Data Scientist",
+			"duration": 13,
+			"description": "Predictive modeling, pandas, scikit-learn, python, jupyter, matplotlib, bokeh, exasol, numpy, sql"
+		}, {
+			"title": "Data Scientist",
+			"duration": 24,
+			"description": "Revenue optimization for hotels metasearch engines. Data mining of hotel information. Machine learning modeler.  Technologies: - Python - Pandas - Numpy - Bokeh - MongoDB"
+		}
+	],
+	"skills": ["Databases",
+		"SQL",
+		"Microsoft Excel",
+		"Pandas",
+		"Microsoft Office",
+		"VBA",
+		"JavaScript",
+		"PySpark",
+		"Quantitative Finance",
+		"Regression Models",
+		"Logistic Regression",
+		"Data Science",
+		"Scikit-Learn",
+		"NumPy",
+		"Apache Spark",
+		"Hive"]
+}

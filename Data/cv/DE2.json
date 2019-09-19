@@ -1,0 +1,31 @@
+{
+	"title": "Senior Big Data Engineer",
+	"experience": [{
+			"title": "Big Data Scala Engineer",
+			"duration": 42,
+			"description": "Building a greenfield IoT big data analytics platform from scratch, for the Hive home hub product, using the latest technology in the field:  The platform we've built is capable of processing the Hive IoT firehose Kafka data stream, which generates more that 4 billion messages per day in near realtime to apply data analytics algorithms and create value add data products, such as heating efficiency monitoring and occupancy detection. Our streaming data processing jobs are capable at running at message rates in excess of 100k/sec, not theoretical but observed.  I've played a key role in introducing Docker containerisation to the team to allow for complex testing of pipelines and this has led to us now having dozens of streaming data pipelines in production deployed using Docker containers on Kubernetes and Helm. We also operate a you build it, you run it approach which we self manage and fully support all our software in production 24/7.  We favour a 12 factor app approach to containerise our big data pipelines - this allows us to to take a share nothing approach between our pipelines and gives us the freedom to evolve the platform. I like to refer to it as The Polyglot Data Platform.  Our tech stack currently looks like Scala Python Kafka Cassandra Elasticsearch Spark Spark Streaming Kafka Streaming Docker - testing and deployment Kubernetes - deployments Helm charts AWS"
+		}, {
+			"title": "senior software engineer",
+			"duration": 4,
+			"description": "Project - Merchant Feed Service Worked as part of an agile cross functional team to deliver new API services that enable very large merchants to bulk list inventory from popular ecommerce platforms.  Working within a highly agile environment with a dedication to XP practices such as full time pair programming and TDD principles, we implemented a highly scalable solution using Scala REST services (spray) and the AKKA messaging framework to enable efficient handling of very large inventory uploads from merchants.  Project - Find a Garage service (Germany) Integrated 3rd party REST API to allow eBay to offer price a price comparison service for car repairs. The application was delivered using eBay standard application stack, built on top of Spring framework technologies. Introduced crucible for code reviews. Provided application architectural guidance. 100% pair programming.  - Scala, Spray, AKKA - Camel - Cassandra, - MySQL - REST – Jersey, spring MVC rest support. Restassured - JPA – Hibernate - Spring stack - Javascript / CSS - Jenkins CI "
+		}
+	],
+	"skills": ["Java Enterprise Edition",
+		"Spring Framework",
+		"SQL",
+		"MySQL",
+		"Hibernate",
+		"REST",
+		"Unix",
+		"Github",
+		"MongoDB",
+		"Amazon Web Services (AWS)",
+		"Maven",
+		"Docker",
+		"Continuous Delivery",
+		"BDD",
+		"Big Data Analytics",
+		"Apache Spark",
+		"ElasticSearch",
+		"Cassandra"]
+}

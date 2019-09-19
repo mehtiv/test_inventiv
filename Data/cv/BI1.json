@@ -1,0 +1,26 @@
+{
+	"title": "Senior Business Intelligence Analyst",
+	"experience": [{
+			"title": "Senior Business Intelligence Analyst",
+			"duration": 8,
+			"description": "- Develop Business Intelligence solutions for Marketing (website conversions, tracking, attribution), Finance (Income reconciliation from Salesforce data, Usage Cost, AR), CRM (Email Campaign performance)and School Usage using Qlikview, QlikSense, NPrinting, Power BI, SQL, MS SQL Server, SSRS, SSIS, Excel, R, Google Adwords, Salesforce. - Build automation framework for several reports, reduced processing time in general - Develop numerous ad-hoc queries and reports to collect and present information that satisfied clients and contributed to achieve organizational goals.  - Train various business unit teamson the effective use of processes, tools, and resources"
+		}, {
+			"title": "Business Improvement Analyst",
+			"duration": 24,
+			"description": "- Create reports using Business Objects with aim of improving the business - Create bespoke Business Intelligence solutions for the business - Performance reporting  #Achievements: Created a Business Intelligence system with MS Access that calculated the best new housing patches based on scoring for different weighting elements. I received a bonus for the creation of this system"
+		}
+	],
+	"skills": ["SQL",
+		"SSRS",
+		"Crystal Reports",
+		"Microsoft Excel",
+		"Business Objects",
+		"Access",
+		"PL/SQL",
+		"Databases",
+		"Oracle",
+		"MS Access",
+		"MS Excel",
+		"SSIS",
+		"SAP BusinessObjects"]
+}

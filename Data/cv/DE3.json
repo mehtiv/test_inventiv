@@ -1,0 +1,22 @@
+{
+	"title": "Big Data Engineer & DevOps",
+	"experience": [{
+			"title": "Big Data Engineer",
+			"duration": 18,
+			"description": "Managing Oracle Big Data Appliance Cluster Managing Oracle Big Data SQL Managing Oracel Exadata Appliance Cluster Managing Microsoft SQL Server Managing MySQL Server- Percona Managing AWS Redshift, DynamoDB, RDS, EC2 and S3 bucket Devops : Jenkins, Github, Flyway, Code Commit, Code Deploy, Code Pipeline, Elastic Beanstalk Data Engineering: Python, Airflow Infrastructure as Code : Terraform, CLoudFormation, Troposphere"
+		}
+	],
+	"skills": ["Unix",
+		"Oracle Database",
+		"Microsoft SQL Server",
+		"Hadoop",
+		"MongoDB",
+		"Oracle RAC",
+		"RMAN",
+		"Oracle Enterprise Manager",
+		"EXADATA",
+		"CASSANDRA",
+		"Exadata",
+		"Data Guard",
+		"Hive"]
+}

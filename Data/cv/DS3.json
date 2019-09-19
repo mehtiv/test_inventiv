@@ -1,0 +1,44 @@
+{
+
+	"title": "senior Data Scientist/Engineer",
+	"experience": [{
+			"title": "Senior Data Scientist/ ML Engineer",
+			"duration": 8,
+			"description": "Collaboration in the design and implementation of an intelligent solution for AI Health Suite (Clinical Coding). - Natural Language Processing - A recent approach for Deep learning in text classifications: LSTM/GRU, CNN, Hierarchical Attention network and Multitask Learning - Python - CLoud solutions: Azure GPU-VM, Azure Cosmos DB, SQL, Google cloud: GC TPU/GPU VM, GC Bigquery, Spark  Design and development of an intelligent city platform by integrating AI with Agent-based model for transportation data and all relevant city information dataset. - Agent-based Simulation - Deep learning/ RNN-LSTM - Python - Bing REST API - Google Map API - Azure VM-GPU and CosmosDB"
+		}, {
+			"title": "Data Engineer/Scientist",
+			"duration": 5,
+			"description": "Deep learning in TR: - Stock price prediction using Deep learning methods: (RNN_LSTM) - Automatic extraction of breaking news events using NLP methods (Deep learning: RNN and CNN) - Fraud detection using Deep learning- ANN/ Regression and unsupervised deep (SOM) Big Data Handling in TR: - Data migration to Google Cloud Bigquery and Bigtable - Handling big data using Graph Database-Neo4j on Google Cloud and Azure - Data migration to Azure Cosmos Db"
+		}, {
+			"title": "Data Engineer/Scientist",
+			"duration": 3,
+			"description": "As part of Microsoft-Accenture-Avanade team, we took the concept of RPA a step further; Where we incorporate intelligence by deploying cognitive technologies from Microsoft Azure services to RPA platforms, to combine Machine Learning, Natural-language Processing and process automation, to perform complex tasks without human interference. Deep learning in Accenture: Insurance Claim Handling using Deep learning (CNN): - Prediction of damage costs - Document classification - Claim anti-Fraud Recovery - Settlement Strategy Microsoft Cloud Solutions in Accenture: - Azure Cloud GPU - Azure Machine Learning, Studio and Workbench - Azure Power-BI"
+		}
+	],
+	"skills": ["Mechanical Engineering",
+		"Numerical Analysis",
+		"Robotics",
+		"Fluid Mechanics",
+		"Thermodynamics",
+		"Photovoltaics",
+		"Painting",
+		"Mathematical Modeling",
+		"Engineering",
+		"Simulations",
+		"Modeling",
+		"Programming",
+		"Data Analysis",
+		"Machine Learning",
+		"Cloud Computing", "ANSYS",
+		"AutoCAD",
+		"Microsoft Office",
+		"SolidWorks",
+		"Abaqus",
+		"LabVIEW",
+		"Matlab",
+		"Java",
+		"UGS NX",
+		"Python",
+		"Microsoft Azure",
+		"Tensor Flow"]
+}

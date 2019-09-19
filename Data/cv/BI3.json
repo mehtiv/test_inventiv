@@ -1,0 +1,10 @@
+{
+	"title": "Business Intelligence Architect",
+	"experience": [{
+			"title": "Business Intelligence Architect",
+			"duration": 38,
+			"description": "Designing and implementing systems that provide for the quality assurance of the company`s information and data. Business Intelligence endorsements for Business Intelligence systems implementation, working with the Head of Business Intelligence and relevant stakeholders for each business area. Working with the Business Systems team to define and implement data backup and security of information assets. Providing integral support when implementing new systems, preparing user training material and technical documentation."
+		}
+	],
+	"skills": ["Business Intelligence", "Data Warehousing", " Reporting & Analysis", "Databases"]
+}
